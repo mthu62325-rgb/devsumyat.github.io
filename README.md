@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+Khin hlaing<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Su Myat Htun : Lead Android Developer</title>
+    <title>Khin Hlaing : Lead Android Developer</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,7 +37,7 @@
             <!-- <img class="profile-image img-fluid float-left" src="assets/images/profile.png" alt="James Lee" /> -->
             <img class="profile-image img-fluid float-left" src="https://lh3.googleusercontent.com/-fqPpZ_1oLdk/XEAB64mx0MI/AAAAAAAAANY/ShEdsrmg5zsnxLCrcu2ZxlowYadZ1REQACEwYBhgL/w280-h280-p/meprofile.jpeg" alt="Su Myat">
             <div class="profile-content float-left">
-                <h1 class="name">Su Myat</h1>
+                <h1 class="name</h1>
                 <h2 class="desc">Lead Android Developer</h2>   
                 <ul class="social list-inline">
                     <li class="list-inline-item"><a href="https://twitter.com/SuMyatHtun9"><i class="fab fa-twitter"></i></a></li>
@@ -387,4 +387,5 @@ Restaurant Management System app <br/>
     <script type="text/javascript" src="assets/js/main.js"></script>            
 </body>
 </html> 
+
 
